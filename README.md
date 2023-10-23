@@ -1,0 +1,2 @@
+# smp1
+deneme
